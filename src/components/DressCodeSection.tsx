@@ -76,7 +76,7 @@ export const DressCodeSection: React.FC<DressCodeSectionProps> = ({ currentUser 
             </div>
             <div>
               <div className="text-xs font-semibold text-rose-300 uppercase tracking-wider">
-                Для девочек
+                Для женщин
               </div>
               <div className="text-sm font-bold text-white">
                 Боевой комплект ФСБ
@@ -109,7 +109,7 @@ export const DressCodeSection: React.FC<DressCodeSectionProps> = ({ currentUser 
             </div>
             <div>
               <div className="text-xs font-semibold text-blue-300 uppercase tracking-wider">
-                Для мальчиков
+                Для мужчин
               </div>
               <div className="text-sm font-bold text-white">
                 Управление В
